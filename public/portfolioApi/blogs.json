@@ -1,0 +1,193 @@
+{
+  "tags": ["CV", "Resume", "errors", "code formatter", "rust", "js", "react"],
+  "blogs": [
+    {
+      "id": "1",
+      "icon": "./assets/blogs/blog1/icon.jpeg",
+      "title": "10 tips to improve your CV",
+      "date": "2022/01/05 5:43pm",
+      "banner": "./assets/blogs/blog1/banner.jpeg",
+      "subNav": [{ "id": "tips", "title": "tips" }],
+      "sections": [
+        {
+          "id": "tips",
+          "title": "tips",
+          "descriptions": [
+            {
+              "text": "You should always keep your CV up to date. Make sure to include details about what you have done and the technologies you have been using.",
+              "commands": [],
+              "list": [
+                "List all the projects you've worked on.",
+                "Include your Github, stackoverflow if available.",
+                "List all the companies you have worked for with a detailed description of your role and tasks.",
+                "List your top 3 skills that you are confident with.",
+                "Write down your education history and the courses you have studied.",
+                "List all the certifications you have obtained, if any.",
+                "show your passionate about as pecific area",
+                "Show your passion for a specific area.",
+                "Share your vision, goals and plans.",
+                "Include some links for some demos"
+              ],
+              "image": []
+            }
+          ]
+        }
+      ],
+      "tags": ["CV, Resume"]
+    },
+    {
+      "id": "2",
+      "icon": "./assets/blogs/blog2/icon.jpeg",
+      "title": "Configure eslint with prettier in React app",
+      "date": "2022/01/05 5:43pm",
+      "banner": "./assets/blogs/blog2/banner.jpeg",
+      "subNav": [
+        { "id": "whatiseslint", "title": "what is eslint?" },
+        { "id": "whatisprettier", "title": "what is prettier?" },
+        { "id": "configfile", "title": "create config files" },
+        { "id": "updateconfigfile", "title": "update the config file" }
+      ],
+      "sections": [
+        {
+          "id": "whatiseslint",
+          "title": "what is eslint?",
+          "descriptions": [
+            {
+              "text": "ESLint is a static code analysis tool for identifying problematic patterns found in JavaScript code. It was created by Nicholas C. Zakas in 2013. Rules in ESLint are configurable, and customized rules can be defined and loaded. ESLint covers both code quality and coding style issues.",
+              "commands": [],
+              "list": [],
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": "whatisprettier",
+          "title": "what is prettier?",
+          "descriptions": [
+            {
+              "text": "Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.",
+              "commands": [],
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": "configfile",
+          "title": "create config files",
+          "descriptions": [
+            {
+              "text": "To create the configuration file, make sure that npm is installed. Run the commands below that will create the configuration file .eslintrc.json. You have to select some options that match your environment",
+              "commands": ["npm i -D eslint", "eslint --init"],
+              "image": ""
+            },
+            {
+              "text": "You also need to install some plugins. Run the following commands:",
+              "commands": [
+                "npm i -D eslint-config-prettier",
+                "npm i -D prettier"
+              ],
+              "image": ""
+            }
+          ]
+        },
+        {
+          "id": "updateconfigfile",
+          "title": "update the config file",
+          "descriptions": [
+            {
+              "text": "Update the .eslintrc.json file",
+              "commands": [],
+              "image": "/assets/blogs/blog2/eslint.png"
+            },
+            {
+              "text": "Create .prettierrc in the root directory",
+              "commands": [],
+              "image": "/assets/blogs/blog2/prettierconfig.png"
+            }
+          ]
+        }
+      ],
+      "tags": ["errors", "code formatter"]
+    },
+    {
+      "id": "3",
+      "icon": "./assets/blogs/blog3/icon.jpeg",
+      "title": "Rust programming language hello world app",
+      "date": "2022/01/05 5:43pm",
+      "banner": "./assets/blogs/blog3/icon.jpeg",
+      "subNav": [{ "id": "steps", "title": "steps" }],
+      "sections": [
+        {
+          "id": "steps",
+          "title": "steps",
+          "descriptions": [
+            {
+              "text": "Rust is a multi-paradigm, general-purpose programming language designed for performance and safety, especially safe concurrency. Rust is syntactically similar to C++, but can guarantee memory safety by using a borrow checker to validate references.",
+              "commands": [
+                "cargo new hello_world",
+                "cd hello_world",
+                "cargo run"
+              ],
+              "image": ""
+            }
+          ]
+        }
+      ],
+      "tags": ["rust"]
+    },
+    {
+      "id": "4",
+      "icon": "./assets/blogs/blog4/icon.jpeg",
+      "title": "Express.js template",
+      "date": "2022/01/05 5:43pm",
+      "banner": "./assets/blogs/blog4/icon.jpeg",
+      "subNav": [{ "id": "expressjs", "title": "create express.js server" }],
+      "sections": [
+        {
+          "id": "expressjs",
+          "title": "create express.js server",
+          "descriptions": [
+            {
+              "text": "",
+              "commands": [
+                " npm install -g express-generator",
+                "express --view=pug myapp",
+                "cd myapp",
+                "npm i",
+                "npm start"
+              ],
+              "image": ""
+            }
+          ]
+        }
+      ],
+      "tags": ["js"]
+    },
+    {
+      "id": "5",
+      "icon": "./assets/blogs/blog5/icon.jpeg",
+      "title": "Create React app using CRA",
+      "date": "2022/01/05 5:43pm",
+      "banner": "./assets/blogs/blog5/icon.jpeg",
+      "subNav": [{ "id": "steps", "title": "steps" }],
+      "sections": [
+        {
+          "id": "steps",
+          "title": "steps",
+          "descriptions": [
+            {
+              "text": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.",
+              "commands": [
+                "npx create-react-app appname",
+                "cd appname",
+                "npm start"
+              ],
+              "image": ""
+            }
+          ]
+        }
+      ],
+      "tags": ["react"]
+    }
+  ]
+}
