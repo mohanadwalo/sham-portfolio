@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "title": "Hosting",
+    "description": [
+      "Cheap Price",
+      "Free Consultation",
+      "Serverless",
+      "Dedicated server",
+      "Automation"
+    ],
+    "icon": "/assets/services/hosting.svg"
+  },
+  {
+    "id": "2",
+    "title": "Mobile Apps",
+    "description": [
+      "Great Support",
+      "Free Consultation",
+      "Swift",
+      "Kotlin",
+      "React Native"
+    ],
+    "icon": "/assets/services/phone.svg"
+  },
+  {
+    "id": "3",
+    "title": "Web Development",
+    "description": [
+      "Great Support",
+      "Unit Test",
+      "Scalable Server",
+      "Front-End",
+      "Reusable Components"
+    ],
+    "icon": "/assets/services/webdev.svg"
+  },
+  {
+    "id": "4",
+    "title": "UX/UI",
+    "description": [
+      "Best Design for your Brand",
+      "Design Thinking",
+      "Serverless",
+      "User Testing",
+      "Dark / Light Assets",
+      "Mobile Design"
+    ],
+    "icon": "/assets/services/uxui.svg"
+  }
+]

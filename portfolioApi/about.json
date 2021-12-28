@@ -1,0 +1,79 @@
+{
+  "education": [
+    {
+      "id": "1",
+      "startDate": "2012/05",
+      "endDate": "2015/01",
+      "location": "tokyo, japan",
+      "subject": "BachelorBachelor&apos;s degree in Information Technology Engineerings ",
+      "university": " Faculty of Informatics Engineering Science, T University",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mi augue diam aliquet neque ultricies. Amet, in enim velit orci vitae urna. Nascetur diam cras erat aliquet sit a, sed dictumst.",
+      "projects": [
+        {
+          "id": "1",
+          "title": "portfolior"
+        },
+        {
+          "id": "2",
+          "title": "car rent"
+        },
+        {
+          "id": "3",
+          "title": "booking system"
+        },
+        {
+          "id": "4",
+          "title": "logger"
+        }
+      ],
+      "courses": ["algorithms", "os", "math", "data structure"]
+    }
+  ],
+  "experience": [
+    {
+      "id": "1",
+      "startDate": "2018/05",
+      "endDate": "2021/05",
+      "location": "tokyo, japan",
+      "companyName": "T-Webs Solutions",
+      "companyDescription": "T-Webs is a consulting and software company that develops systems for business solutions.",
+      "projects": [
+        {
+          "id": "5",
+          "title": "data analyser"
+        },
+        {
+          "id": "6",
+          "title": "library"
+        },
+        {
+          "id": "7",
+          "title": "rounder"
+        }
+      ],
+      "tasks": [
+        "System Design, Review and deploy other developers code toproduction.",
+        "Developing web systems, Hosting (IIS, Godaddy and AWS),Windows services.",
+        "Technologies Stack: Node.js, TypeScript, React.js, Java,Asp.net MVC, Linux, Docker, Kubernetes, SQL and NoSQL."
+      ]
+    },
+    {
+      "id": "2",
+      "startDate": "2016/05",
+      "endDate": "2018/04",
+      "location": "tokyo, japan",
+      "companyName": "BTS Solutions",
+      "companyDescription": "BTS Solutions is a software company that develops systems for enterprise solutions.",
+      "projects": [
+        {
+          "id": "8",
+          "title": "kids space"
+        }
+      ],
+      "tasks": [
+        "Developing different kinds of websites, ERP systems.",
+        "Technologies Stack: Asp.net MVC, JavaScript and SQL."
+      ]
+    }
+  ]
+}
