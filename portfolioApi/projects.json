@@ -2,86 +2,86 @@
   {
     "id": "1",
     "title": "portfolior",
-    "icon": "/assets/projects/project_image_1.jpeg",
+    "icon": "../assets/projects/project_image_1.jpeg",
     "goals": " Help developers stand out from the crowd.",
     "gallery": [
       "/assets/projects/project_image_1.jpeg",
-      "/assets/projects/project_image_2.jpeg",
-      "/assets/projects/project_image_3.jpeg",
-      "/assets/projects/project_image_4.jpeg",
-      "/assets/projects/project_image_5.jpeg",
-      "/assets/projects/project_image_6.jpeg",
-      "/assets/projects/project_image_7.jpeg",
-      "/assets/projects/project_image_8.jpeg"
+      "../assets/projects/project_image_2.jpeg",
+      "../assets/projects/project_image_3.jpeg",
+      "../assets/projects/project_image_4.jpeg",
+      "../assets/projects/project_image_5.jpeg",
+      "../assets/projects/project_image_6.jpeg",
+      "../assets/projects/project_image_7.jpeg",
+      "../assets/projects/project_image_8.jpeg"
     ],
     "development": [
       "Cloud service to facilitate the architecture of microservices",
       "Golang REST server",
       "React components"
     ],
-    "video": "/assets/projects/temp_video.mp4"
+    "video": "../assets/projects/temp_video.mp4"
   },
   {
     "id": "2",
     "title": "car rent",
-    "icon": "/assets/projects/project_image_2.jpeg",
+    "icon": "../assets/projects/project_image_2.jpeg",
     "goals": "put goal here",
-    "gallery": ["/assets/projects/project_image_2.jpeg"],
+    "gallery": ["../assets/projects/project_image_2.jpeg"],
     "development": ["description", "description", "description"],
-    "video": "/assets/projects/temp_video.mp4"
+    "video": "../assets/projects/temp_video.mp4"
   },
   {
     "id": "3",
     "title": "booking system",
-    "icon": "/assets/projects/project_image_3.jpeg",
+    "icon": "../assets/projects/project_image_3.jpeg",
     "goals": "put goal here",
-    "gallery": ["/assets/projects/project_image_3.jpeg"],
+    "gallery": ["../assets/projects/project_image_3.jpeg"],
     "development": ["description", "description", "description"],
-    "video": "/assets/projects/temp_video.mp4"
+    "video": "../assets/projects/temp_video.mp4"
   },
   {
     "id": "4",
     "title": "logger",
-    "icon": "/assets/projects/project_image_4.jpeg",
+    "icon": "../assets/projects/project_image_4.jpeg",
     "goals": "put goal here",
-    "gallery": ["/assets/projects/project_image_4.jpeg"],
+    "gallery": ["../assets/projects/project_image_4.jpeg"],
     "development": ["description", "description", "description"],
-    "video": "/assets/projects/temp_video.mp4"
+    "video": "../assets/projects/temp_video.mp4"
   },
   {
     "id": "5",
     "title": "data analyser",
-    "icon": "/assets/projects/project_image_5.jpeg",
+    "icon": "../assets/projects/project_image_5.jpeg",
     "goals": "put goal here",
-    "gallery": ["/assets/projects/project_image_5.jpeg"],
+    "gallery": ["../assets/projects/project_image_5.jpeg"],
     "development": ["description", "description", "description"],
-    "video": "/assets/projects/temp_video.mp4"
+    "video": "../assets/projects/temp_video.mp4"
   },
   {
     "id": "6",
     "title": "library",
-    "icon": "/assets/projects/project_image_6.jpeg",
+    "icon": "../assets/projects/project_image_6.jpeg",
     "goals": "put goal here",
-    "gallery": ["/assets/projects/project_image_6.jpeg"],
+    "gallery": ["../assets/projects/project_image_6.jpeg"],
     "development": ["description", "description", "description"],
-    "video": "/assets/projects/temp_video.mp4"
+    "video": "../assets/projects/temp_video.mp4"
   },
   {
     "id": "7",
     "title": "rounder",
-    "icon": "/assets/projects/project_image_7.jpeg",
+    "icon": "../assets/projects/project_image_7.jpeg",
     "goals": "put goal here",
-    "gallery": ["/assets/projects/project_image_7.jpeg"],
+    "gallery": ["../assets/projects/project_image_7.jpeg"],
     "development": ["description", "description", "description"],
-    "video": "/assets/projects/temp_video.mp4"
+    "video": "../assets/projects/temp_video.mp4"
   },
   {
     "id": "8",
     "title": "kids space",
-    "icon": "/assets/projects/project_image_8.jpeg",
+    "icon": "../assets/projects/project_image_8.jpeg",
     "goals": "put goal here",
-    "gallery": ["/assets/projects/project_image_8.jpeg"],
+    "gallery": ["../assets/projects/project_image_8.jpeg"],
     "development": ["description", "description", "description"],
-    "video": "/assets/projects/temp_video.mp4"
+    "video": "../assets/projects/temp_video.mp4"
   }
 ]
