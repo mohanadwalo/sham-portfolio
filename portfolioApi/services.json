@@ -9,7 +9,7 @@
       "Dedicated server",
       "Automation"
     ],
-    "icon": "../assets/services/hosting.svg"
+    "icon": "./assets/services/hosting.svg"
   },
   {
     "id": "2",
@@ -21,7 +21,7 @@
       "Kotlin",
       "React Native"
     ],
-    "icon": "../assets/services/phone.svg"
+    "icon": "./assets/services/phone.svg"
   },
   {
     "id": "3",
@@ -33,7 +33,7 @@
       "Front-End",
       "Reusable Components"
     ],
-    "icon": "../assets/services/webdev.svg"
+    "icon": "./assets/services/webdev.svg"
   },
   {
     "id": "4",
@@ -46,6 +46,6 @@
       "Dark / Light Assets",
       "Mobile Design"
     ],
-    "icon": "../assets/services/uxui.svg"
+    "icon": "./assets/services/uxui.svg"
   }
 ]

@@ -10,7 +10,7 @@
       "Develop Cloud First Applications",
       " Secure Kubernetes cluster with Secrets and Network Policies"
     ],
-    "icon": "../assets/certifications/certification_1.jpeg"
+    "icon": "./assets/certifications/certification_1.jpeg"
   },
   {
     "id": "2",
