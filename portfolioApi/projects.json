@@ -5,7 +5,7 @@
     "icon": "../assets/projects/project_image_1.jpeg",
     "goals": " Help developers stand out from the crowd.",
     "gallery": [
-      "/assets/projects/project_image_1.jpeg",
+      "../assets/projects/project_image_1.jpeg",
       "../assets/projects/project_image_2.jpeg",
       "../assets/projects/project_image_3.jpeg",
       "../assets/projects/project_image_4.jpeg",
