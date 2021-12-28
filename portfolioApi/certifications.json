@@ -10,7 +10,7 @@
       "Develop Cloud First Applications",
       " Secure Kubernetes cluster with Secrets and Network Policies"
     ],
-    "icon": "/assets/certifications/certification_1.jpeg"
+    "icon": "../assets/certifications/certification_1.jpeg"
   },
   {
     "id": "2",
@@ -23,6 +23,6 @@
       "Ability to apply a basic understanding of cloud-native applications to write code",
       "Ability to identify key features of AWS services and use the AWS service APIs, AWS CLI, and SDKs to write applications"
     ],
-    "icon": "/assets/certifications/certification_2.jpeg"
+    "icon": "../assets/certifications/certification_2.jpeg"
   }
 ]
