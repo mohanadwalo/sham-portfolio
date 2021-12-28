@@ -23,6 +23,6 @@
       "Ability to apply a basic understanding of cloud-native applications to write code",
       "Ability to identify key features of AWS services and use the AWS service APIs, AWS CLI, and SDKs to write applications"
     ],
-    "icon": "../assets/certifications/certification_2.jpeg"
+    "icon": "./assets/certifications/certification_2.jpeg"
   }
 ]
