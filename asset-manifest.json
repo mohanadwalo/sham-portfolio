@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3790e252.chunk.css",
-    "main.js": "/static/js/main.5da36162.chunk.js",
-    "main.js.map": "/static/js/main.5da36162.chunk.js.map",
+    "main.js": "/static/js/main.4985afde.chunk.js",
+    "main.js.map": "/static/js/main.4985afde.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.264ec0db.js",
     "runtime-main.js.map": "/static/js/runtime-main.264ec0db.js.map",
-    "static/js/2.ebe567da.chunk.js": "/static/js/2.ebe567da.chunk.js",
-    "static/js/2.ebe567da.chunk.js.map": "/static/js/2.ebe567da.chunk.js.map",
+    "static/js/2.0a8d301d.chunk.js": "/static/js/2.0a8d301d.chunk.js",
+    "static/js/2.0a8d301d.chunk.js.map": "/static/js/2.0a8d301d.chunk.js.map",
     "static/js/3.207653b2.chunk.js": "/static/js/3.207653b2.chunk.js",
     "static/js/3.207653b2.chunk.js.map": "/static/js/3.207653b2.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.3790e252.chunk.css.map": "/static/css/main.3790e252.chunk.css.map",
-    "static/js/2.ebe567da.chunk.js.LICENSE.txt": "/static/js/2.ebe567da.chunk.js.LICENSE.txt",
+    "static/js/2.0a8d301d.chunk.js.LICENSE.txt": "/static/js/2.0a8d301d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Lato-Regular.75614cfc.woff2",
     "static/media/about-default.60ea1c8b.svg": "/static/media/about-default.60ea1c8b.svg",
     "static/media/about.70b35fbd.svg": "/static/media/about.70b35fbd.svg",
@@ -36,7 +36,7 @@
     "static/media/highlight-bg.b3612254.svg": "/static/media/highlight-bg.b3612254.svg",
     "static/media/like.c3342b24.svg": "/static/media/like.c3342b24.svg",
     "static/media/linkedin.6c2513cd.svg": "/static/media/linkedin.6c2513cd.svg",
-    "static/media/logo.4b49c513.svg": "/static/media/logo.4b49c513.svg",
+    "static/media/logo.60bb1f79.svg": "/static/media/logo.60bb1f79.svg",
     "static/media/profile-picture.a1bdc150.jpeg": "/static/media/profile-picture.a1bdc150.jpeg",
     "static/media/projects-large.5366bc47.svg": "/static/media/projects-large.5366bc47.svg",
     "static/media/projects.2b69d1b0.svg": "/static/media/projects.2b69d1b0.svg",
@@ -52,8 +52,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.264ec0db.js",
-    "static/js/2.ebe567da.chunk.js",
+    "static/js/2.0a8d301d.chunk.js",
     "static/css/main.3790e252.chunk.css",
-    "static/js/main.5da36162.chunk.js"
+    "static/js/main.4985afde.chunk.js"
   ]
 }
