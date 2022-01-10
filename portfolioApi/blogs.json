@@ -1,4 +1,41 @@
 {
   "tags": ["c#", "python", "js", "others"],
-  "blogs": []
+  "blogs": [
+    {
+      "id": "1",
+      "title": "blog title",
+      "icon": "./assets/blogs/blog_image_1.jpeg",
+      "tags": ["c#", "python"]
+    },
+    {
+      "id": "2",
+      "title": "blog title",
+      "icon": "./assets/blogs/blog_image_2.jpeg",
+      "tags": ["js"]
+    },
+    {
+      "id": "3",
+      "title": "blog title",
+      "icon": "./assets/blogs/blog_image_3.jpeg",
+      "tags": ["others"]
+    },
+    {
+      "id": "4",
+      "title": "blog title",
+      "icon": "./assets/blogs/blog_image_4.jpeg",
+      "tags": ["others"]
+    },
+    {
+      "id": "5",
+      "title": "blog title",
+      "icon": "./assets/blogs/blog_image_5.jpeg",
+      "tags": ["others"]
+    },
+    {
+      "id": "6",
+      "title": "blog title",
+      "icon": "./assets/blogs/blog_image_6.jpeg",
+      "tags": ["others"]
+    }
+  ]
 }

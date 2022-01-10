@@ -1,88 +1,87 @@
 [
   {
     "id": "1",
-    "title": "portfolio",
-    "icon": "./assets/projects/home.png",
-    "goals": "Help developers stand out from the crowd.",
+    "title": "portfolior",
+    "icon": "./assets/projects/project_image_1.jpeg",
+    "goals": " Help developers stand out from the crowd.",
     "gallery": [
-      "./assets/projects/projects.png",
-      "./assets/projects/project-details.png",
-      "./assets/projects/blogs.png",
-      "./assets/projects/experience.png",
-      "./assets/projects/certifications.png",
-      "./assets/projects/services.png",
-      "./assets/projects/font-color.png",
-      "./assets/projects/contact.png",
-      "./assets/projects/font-color.png"
+      "./assets/projects/project_image_1.jpeg",
+      "./assets/projects/project_image_2.jpeg",
+      "./assets/projects/project_image_3.jpeg",
+      "./assets/projects/project_image_4.jpeg",
+      "./assets/projects/project_image_5.jpeg",
+      "./assets/projects/project_image_6.jpeg",
+      "./assets/projects/project_image_7.jpeg",
+      "./assets/projects/project_image_8.jpeg"
     ],
     "development": [
-      "UX/UI",
-      "Figma",
-      "Redux Toolkit",
-      "Redux Toolkit",
-      "React router6",
-      "Helmet to improve SEO",
-      "Express.js",
-      "Unit testing"
+      "Cloud service to facilitate the architecture of microservices",
+      "Golang REST server",
+      "React components"
     ],
-    "video": ""
+    "video": "./assets/projects/temp_video.mp4"
   },
   {
     "id": "2",
-    "title": "Digital Agency",
-    "icon": "./assets/projects/project_under_dev.png",
-    "goals": "To help startup companies developing their brands",
-    "gallery": [],
-    "development": [
-      "UX/UI",
-      "Figma",
-      "Redux Toolkit",
-      "Redux Toolkit",
-      "React router6",
-      "Helmet to improve SEO",
-      "Express.js",
-      "Unit testing",
-      "Swift",
-      "Kotlin"
-    ],
-    "video": ""
+    "title": "car rent",
+    "icon": "./assets/projects/project_image_2.jpeg",
+    "goals": "put goal here",
+    "gallery": ["./assets/projects/project_image_2.jpeg"],
+    "development": ["description", "description", "description"],
+    "video": "./assets/projects/temp_video.mp4"
   },
   {
     "id": "3",
-    "title": "Stocker",
-    "icon": "./assets/projects/project_under_dev.png",
-    "goals": "Help managing stock transactions",
-    "gallery": [],
-    "development": [
-      "UX/UI",
-      "Figma",
-      "Redux Toolkit",
-      "Redux Toolkit",
-      "React router6",
-      "Helmet to improve SEO",
-      "Express.js",
-      "Unit testing"
-    ],
-    "video": ""
+    "title": "booking system",
+    "icon": "./assets/projects/project_image_3.jpeg",
+    "goals": "put goal here",
+    "gallery": ["./assets/projects/project_image_3.jpeg"],
+    "development": ["description", "description", "description"],
+    "video": "./assets/projects/temp_video.mp4"
   },
   {
     "id": "4",
-    "title": "E-commerce",
-    "icon": "./assets/projects/project_under_dev.png",
+    "title": "logger",
+    "icon": "./assets/projects/project_image_4.jpeg",
     "goals": "put goal here",
-    "gallery": [],
-    "development": [
-      "UX/UI",
-      "Figma",
-      "Redux Toolkit",
-      "Redux Toolkit",
-      "React router6",
-      "Helmet to improve SEO",
-      "Express.js",
-      "Unit testing",
-      "Swift",
-      "Kotlin"
-    ],
-    "video": ""
+    "gallery": ["./assets/projects/project_image_4.jpeg"],
+    "development": ["description", "description", "description"],
+    "video": "./assets/projects/temp_video.mp4"
+  },
+  {
+    "id": "5",
+    "title": "data analyser",
+    "icon": "./assets/projects/project_image_5.jpeg",
+    "goals": "put goal here",
+    "gallery": ["./assets/projects/project_image_5.jpeg"],
+    "development": ["description", "description", "description"],
+    "video": "./assets/projects/temp_video.mp4"
+  },
+  {
+    "id": "6",
+    "title": "library",
+    "icon": "./assets/projects/project_image_6.jpeg",
+    "goals": "put goal here",
+    "gallery": ["./assets/projects/project_image_6.jpeg"],
+    "development": ["description", "description", "description"],
+    "video": "./assets/projects/temp_video.mp4"
+  },
+  {
+    "id": "7",
+    "title": "rounder",
+    "icon": "./assets/projects/project_image_7.jpeg",
+    "goals": "put goal here",
+    "gallery": ["./assets/projects/project_image_7.jpeg"],
+    "development": ["description", "description", "description"],
+    "video": "./assets/projects/temp_video.mp4"
+  },
+  {
+    "id": "8",
+    "title": "kids space",
+    "icon": "./assets/projects/project_image_8.jpeg",
+    "goals": "put goal here",
+    "gallery": ["./assets/projects/project_image_8.jpeg"],
+    "development": ["description", "description", "description"],
+    "video": "./assets/projects/temp_video.mp4"
   }
 ]

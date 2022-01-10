@@ -1,13 +1,13 @@
 {
   "education": [
     {
-      "id": "0",
-      "startDate": "2018/10",
-      "endDate": "2020/09",
-      "location": "kobe, japan",
-      "subject": "Bachelor degree in Information systems ",
-      "university": "Kobe Institute of Computing",
-      "description": "",
+      "id": "1",
+      "startDate": "2012/05",
+      "endDate": "2015/01",
+      "location": "tokyo, japan",
+      "subject": "Bachelor degree in Information Technology Engineerings ",
+      "university": " Faculty of Informatics Engineering Science, T University",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mi augue diam aliquet neque ultricies. Amet, in enim velit orci vitae urna. Nascetur diam cras erat aliquet sit a, sed dictumst.",
       "projects": [
         {
           "id": "1",
@@ -26,102 +26,48 @@
           "title": "logger"
         }
       ],
-      "courses": [
-        "Information Systems",
-        "Security",
-        "Leadership",
-        "data structure"
-      ]
-    },
-    {
-      "id": "0",
-      "startDate": "2009/10",
-      "endDate": "2013/09",
-      "location": "aleppo, syria",
-      "subject": "Bachelor degree in Information Technology Engineering",
-      "university": "Faculty of Information Technology Engineering, Aleppo University",
-      "description": "The Faculty of Informatics Engineering at the University of Aleppo was established in 2000, before the new plan it has three sections: software engineering, information systems, computer networks and artificial intelligence and natural language. According to the old plan, the duration of study is 5 years; including three years of basic sciences then two years where the student specializes in one of the previous terms of reference. The first class graduated in 2003.",
-      "projects": [
-        {
-          "id": "",
-          "title": "Booking System"
-        },
-        {
-          "id": "",
-          "title": "Stock Management"
-        },
-        {
-          "id": "",
-          "title": "Booking System"
-        }
-      ],
-      "courses": [
-        "Problem solving",
-        "System Design",
-        "Programming Languages",
-        "Algorithms",
-        "Operating Systems",
-        "Ethics",
-        "Compilers",
-        "Distributed Database",
-        "Mathematics",
-        "Web development",
-        "Software Engineering",
-        "Networks"
-      ]
+      "courses": ["algorithms", "os", "math", "data structure"]
     }
   ],
   "experience": [
     {
-      "id": "0",
-      "startDate": "2020/12",
-      "endDate": "Present",
+      "id": "1",
+      "startDate": "2018/05",
+      "endDate": "2021/05",
       "location": "tokyo, japan",
-      "companyName": "Rakuten, Inc.",
-      "companyDescription": "Rakuten, Inc. is a Japanese electronic commerce and online retailing company based in Tokyo.",
+      "companyName": "T-Webs Solutions",
+      "companyDescription": "T-Webs is a consulting and software company that develops systems for business solutions.",
       "projects": [
         {
           "id": "5",
-          "title": "MiniApps"
-        }
-      ],
-      "tasks": [
-        "Working with other senior engineers to decide the design of a new system",
-        "Developing user interfaces and being a close to UX team",
-        "Developing Back-end services",
-        "Technologies Stack: Javascript, React.js, Typescript, Express.js and MongoDB."
-      ]
-    },
-    {
-      "id": "0",
-      "startDate": "2015/12",
-      "endDate": "2020/11",
-      "location": "Beirut, Lebanon",
-      "companyName": "Turbo Webs LTD",
-      "companyDescription": "Turbo Webs is a software company that develops accounting and e-government systems.",
-      "projects": [
+          "title": "data analyser"
+        },
         {
-          "id": "0",
-          "title": "Stock Management System"
+          "id": "6",
+          "title": "library"
+        },
+        {
+          "id": "7",
+          "title": "rounder"
         }
       ],
       "tasks": [
-        "System Design, Review and deploy other developers code to production.",
-        "Developing web systems, Hosting (IIS, Godaddy and AWS), Windows services.",
-        "Technologies Stack: Node.js, TypeScript, React.js, Java, Asp.net MVC, Linux, Docker, Kubernetes, SQL and NoSQL."
+        "System Design, Review and deploy other developers code toproduction.",
+        "Developing web systems, Hosting (IIS, Godaddy and AWS),Windows services.",
+        "Technologies Stack: Node.js, TypeScript, React.js, Java,Asp.net MVC, Linux, Docker, Kubernetes, SQL and NoSQL."
       ]
     },
     {
-      "id": "3",
-      "startDate": "2014/07",
-      "endDate": "2015/11",
-      "location": "Beirut, Lebanon",
-      "companyName": "IBC Consult",
-      "companyDescription": "It is a consulting and software company that develops systems for business solutions.",
+      "id": "2",
+      "startDate": "2016/05",
+      "endDate": "2018/04",
+      "location": "tokyo, japan",
+      "companyName": "BTS Solutions",
+      "companyDescription": "BTS Solutions is a software company that develops systems for enterprise solutions.",
       "projects": [
         {
           "id": "8",
-          "title": "ERP System"
+          "title": "kids space"
         }
       ],
       "tasks": [
