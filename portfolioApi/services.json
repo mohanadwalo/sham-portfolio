@@ -47,5 +47,24 @@
       "Mobile Design"
     ],
     "icon": "./assets/services/uxui.svg"
+  },
+  {
+    "id": "5",
+    "title": "AI solution",
+    "description": [
+      "Machine Learning",
+      "Deep Learning",
+      "Big Data",
+      "Recommendation Service",
+      "Computer Vision",
+      "Image Process"
+    ],
+    "icon": "./assets/services/ai.svg"
+  },
+  {
+    "id": "6",
+    "title": "Security",
+    "description": ["App Security", "Crypto", "Data Protection", "SSL"],
+    "icon": "./assets/services/security.svg"
   }
 ]

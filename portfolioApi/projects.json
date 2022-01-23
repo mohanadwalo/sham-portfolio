@@ -1,87 +1,152 @@
 [
   {
     "id": "1",
-    "title": "portfolior",
-    "icon": "./assets/projects/project_image_1.jpeg",
-    "goals": " Help developers stand out from the crowd.",
+    "title": "personal portfolio template",
+    "icon": "/assets/projects/portfolior/icon.jpeg",
+    "goals": "The main goal is to help developers stand out from the crowd and increase their chances of getting a better opportunity or a new project if they are self-employed. We have included all the important features like projects, experience, education, services and certifications.",
     "gallery": [
-      "./assets/projects/project_image_1.jpeg",
-      "./assets/projects/project_image_2.jpeg",
-      "./assets/projects/project_image_3.jpeg",
-      "./assets/projects/project_image_4.jpeg",
-      "./assets/projects/project_image_5.jpeg",
-      "./assets/projects/project_image_6.jpeg",
-      "./assets/projects/project_image_7.jpeg",
-      "./assets/projects/project_image_8.jpeg"
+      {
+        "image": "/assets/projects/portfolior/1.jpeg",
+        "description": "Simple and easy to use systems."
+      },
+      {
+        "image": "/assets/projects/portfolior/2.jpeg",
+        "description": "Compatible with different screen sizes."
+      },
+      {
+        "image": "/assets/projects/portfolior/3.jpeg",
+        "description": "Enjoy sharing your thoughts through the blog section."
+      },
+      {
+        "image": "/assets/projects/portfolior/4.jpeg",
+        "description": "Share your work and get more customers."
+      },
+      {
+        "image": "/assets/projects/portfolior/5.jpeg",
+        "description": "documentation included."
+      },
+      {
+        "image": "/assets/projects/portfolior/6.jpeg",
+        "description": "Everything is organized."
+      },
+      {
+        "image": "/assets/projects/portfolior/7.jpeg",
+        "description": "User testing is included."
+      }
     ],
     "development": [
       "Cloud service to facilitate the architecture of microservices",
       "Golang REST server",
-      "React components"
+      "React components",
+      "Styled-components",
+      "React router 6",
+      "Mongo DB"
     ],
-    "video": "./assets/projects/temp_video.mp4"
+    "video": "/assets/projects/temp_video.mp4"
   },
   {
     "id": "2",
-    "title": "car rent",
-    "icon": "./assets/projects/project_image_2.jpeg",
-    "goals": "put goal here",
-    "gallery": ["./assets/projects/project_image_2.jpeg"],
-    "development": ["description", "description", "description"],
-    "video": "./assets/projects/temp_video.mp4"
+    "title": "car rent system",
+    "icon": "./assets/projects/car_rent/icon.jpeg",
+    "goals": "Help people book a car easily. There is a built-in recommendation system that can help you select the best option that suits your requirements.",
+    "gallery": [
+      {
+        "image": "/assets/projects/car_rent/1.jpeg",
+        "description": "The application is easy to use and easy to use."
+      },
+      {
+        "image": "/assets/projects/car_rent/2.jpeg",
+        "description": "You can check the review section."
+      },
+      {
+        "image": "/assets/projects/car_rent/3.jpeg",
+        "description": "Support channel."
+      }
+    ],
+    "development": [
+      "Docker image with all deployment steps were included",
+      "Rust REST server",
+      "Angular components",
+      "Linux Server",
+      "Mysql DB"
+    ],
+    "video": "/assets/projects/temp_video.mp4"
   },
   {
     "id": "3",
     "title": "booking system",
-    "icon": "./assets/projects/project_image_3.jpeg",
-    "goals": "put goal here",
-    "gallery": ["./assets/projects/project_image_3.jpeg"],
-    "development": ["description", "description", "description"],
-    "video": "./assets/projects/temp_video.mp4"
+    "icon": "./assets/projects/booking/icon.jpeg",
+    "goals": "The system will help people who are looking to book a hotel or flight. There is a recommended feature that helps to get the best option at the cheapest price.",
+    "gallery": [
+      {
+        "image": "/assets/projects/booking/1.jpeg",
+        "description": "Map included."
+      },
+      {
+        "image": "/assets/projects/booking/2.jpeg",
+        "description": "Search a flight"
+      },
+      {
+        "image": "/assets/projects/booking/3.jpeg",
+        "description": "Reserve from your home."
+      }
+    ],
+    "development": [
+      "Azure cloud",
+      "Swift IOS app",
+      "Kotlin android app",
+      "Styled-components",
+      "React router 6",
+      "Mongo DB"
+    ],
+    "video": "/assets/projects/temp_video.mp4"
   },
   {
     "id": "4",
-    "title": "logger",
-    "icon": "./assets/projects/project_image_4.jpeg",
-    "goals": "put goal here",
-    "gallery": ["./assets/projects/project_image_4.jpeg"],
-    "development": ["description", "description", "description"],
-    "video": "./assets/projects/temp_video.mp4"
+    "title": "online library",
+    "icon": "./assets/projects/library/icon.jpeg",
+    "goals": "The system will help facilitate access to a wide range of books and references and then borrow or purchase them online. There is an advanced filter feature that can help to find the target book easily.",
+    "gallery": [
+      {
+        "image": "/assets/projects/library/1.jpeg",
+        "description": "Search for a book easily."
+      },
+      {
+        "image": "/assets/projects/library/2.jpeg",
+        "description": "Save your time!"
+      },
+      {
+        "image": "/assets/projects/library/3.jpeg",
+        "description": "Get your favourite books."
+      }
+    ],
+    "development": [
+      "AWS cloud",
+      "Swift IOS app",
+      "Kotlin android app",
+      "Styled-components",
+      "React router 6",
+      "Mongo DB"
+    ],
+    "video": "/assets/projects/temp_video.mp4"
   },
   {
     "id": "5",
-    "title": "data analyser",
-    "icon": "./assets/projects/project_image_5.jpeg",
-    "goals": "put goal here",
-    "gallery": ["./assets/projects/project_image_5.jpeg"],
-    "development": ["description", "description", "description"],
-    "video": "./assets/projects/temp_video.mp4"
-  },
-  {
-    "id": "6",
-    "title": "library",
-    "icon": "./assets/projects/project_image_6.jpeg",
-    "goals": "put goal here",
-    "gallery": ["./assets/projects/project_image_6.jpeg"],
-    "development": ["description", "description", "description"],
-    "video": "./assets/projects/temp_video.mp4"
-  },
-  {
-    "id": "7",
-    "title": "rounder",
-    "icon": "./assets/projects/project_image_7.jpeg",
-    "goals": "put goal here",
-    "gallery": ["./assets/projects/project_image_7.jpeg"],
-    "development": ["description", "description", "description"],
-    "video": "./assets/projects/temp_video.mp4"
-  },
-  {
-    "id": "8",
-    "title": "kids space",
-    "icon": "./assets/projects/project_image_8.jpeg",
-    "goals": "put goal here",
-    "gallery": ["./assets/projects/project_image_8.jpeg"],
-    "development": ["description", "description", "description"],
-    "video": "./assets/projects/temp_video.mp4"
+    "title": "Kids teaching skills platform",
+    "icon": "./assets/projects/kids/icon.jpeg",
+    "goals": "Improve children's skills using an interactive method of online teaching. The system includes a lot of resources in different fields such as mathematics, physics, learning a new language, and much more.",
+    "gallery": [
+      { "image": "/assets/projects/kids/1.jpeg", "description": "" },
+      { "image": "/assets/projects/kids/2.jpeg", "description": "" },
+      { "image": "/assets/projects/kids/3.jpeg", "description": "" }
+    ],
+    "development": [
+      "Scalable server",
+      "React native",
+      "Styled-components",
+      "React router 6",
+      "Mongo DB"
+    ],
+    "video": "/assets/projects/temp_video.mp4"
   }
 ]

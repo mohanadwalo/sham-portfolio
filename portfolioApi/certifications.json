@@ -1,28 +1,42 @@
 [
   {
     "id": "1",
-    "title": "Kubernetes Certified Application Developer (CKAD) with Tests",
-    "issueDate": "05/2020",
-    "expireDate": "05/2024",
-    "description": [
-      "Kubernetes Certification",
-      "Design and Deploy applications on Kubernetes Cluster",
-      "Develop Cloud First Applications",
-      " Secure Kubernetes cluster with Secrets and Network Policies"
-    ],
-    "icon": "./assets/certifications/certification_1.jpeg"
-  },
-  {
-    "id": "2",
     "title": "Certified AWS developer associate",
-    "issueDate": "05/2020",
-    "expireDate": "05/2024",
+    "issueDate": "01/2020",
+    "expireDate": "01/2025",
     "description": [
       "Proficiency in developing, deploying, and debugging cloud-based applications using AWS and writing code for serverless applications",
       "Ability to author, maintain, and debug code modules on AWS",
       "Ability to apply a basic understanding of cloud-native applications to write code",
       "Ability to identify key features of AWS services and use the AWS service APIs, AWS CLI, and SDKs to write applications"
     ],
-    "icon": "./assets/certifications/certification_2.jpeg"
+    "icon": "./assets/certifications/1.png"
+  },
+  {
+    "id": "2",
+    "title": "Linux Administrator",
+    "issueDate": "03/2020",
+    "expireDate": "03/2024",
+    "description": [
+      "Understand the architecture of a Linux system",
+      "Install and maintain a Linux workstation, including X11 and setup it up as a network client",
+      "Work at the Linux command line, including common GNU and Unix commands",
+      "Handle files and access permissions as well as system security",
+      "Perform easy maintenance tasks: help users, add users to a larger system, backup and restore, shutdown and reboot."
+    ],
+    "icon": "./assets/certifications/2.png"
+  },
+  {
+    "id": "3",
+    "title": "Kubernetes Certified Application Developer (CKAD) with Tests",
+    "issueDate": "05/2015",
+    "expireDate": "05/2020",
+    "description": [
+      "Kubernetes Certification",
+      "Design and Deploy applications on Kubernetes Cluster",
+      "Develop Cloud First Applications",
+      " Secure Kubernetes cluster with Secrets and Network Policies"
+    ],
+    "icon": "./assets/certifications/3.png"
   }
 ]
