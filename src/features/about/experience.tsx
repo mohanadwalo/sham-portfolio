@@ -87,14 +87,16 @@ const Experience: React.FC = () => {
             <div className='start-date'></div>
             <div className='location'>{experience.location}</div>
             <div className='path'>
-              <div className='start'>{experience.startDate}</div>
+              <div className='start'>{experience.startDate.toDateString()}</div>
               <div className='middle'></div>
               <div className='middle'></div>
               <div className='middle'></div>
               <div className='middle'></div>
               <div className='middle'></div>
               <div className='middle'></div>
-              <div className='circle end'>{experience.endDate}</div>
+              <div className='circle end'>
+                {experience.endDate.toDateString()}
+              </div>
             </div>
           </div>
           <div className='details'>

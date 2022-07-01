@@ -105,14 +105,14 @@ const Education: React.FC = () => {
             <div className='start-date'></div>
             <div className='location'>{edu.location}</div>
             <div className='path'>
-              <div className='start'>{edu.startDate}</div>
+              <div className='start'>{edu.startDate.toDateString()}</div>
               <div className='middle'></div>
               <div className='middle'></div>
               <div className='middle'></div>
               <div className='middle'></div>
               <div className='middle'></div>
               <div className='middle'></div>
-              <div className='circle end'>{edu.endDate}</div>
+              <div className='circle end'>{edu.endDate.toDateString()}</div>
             </div>
           </div>
           <div className='details'>
